@@ -20,3 +20,7 @@ A curated list of awesome open source and free culture projects around Cornell.
 ## Music Apps
 
 - [Online Launchpad](https://github.com/Dan12/Launchpad), a midi player for your keyboard
+
+## Games
+
+- [MAR1D](https://github.com/olynch/fp_mario), a first person Super Mario Bros clone
