@@ -2,6 +2,8 @@
 
 A curated list of awesome open source and free culture projects around Cornell.
 
+Want to contribute? Submit a pull request! You can edit this file online and make a pull request without leaving your browser.
+
 ## APIs
 
   - [Cornell Open Data](https://cornelldata.org/), an attempt to create an open and easily accessible data repository for the Cornell community.
