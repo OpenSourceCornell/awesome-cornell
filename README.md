@@ -25,3 +25,4 @@ A curated list of awesome open source and free culture projects around Cornell.
 
 - [MAR1D](https://github.com/olynch/fp_mario), a first person Super Mario Bros clone
 - [Tell Me to Survive](https://github.com/lidavidm/cs6360), a visual- and text-based educational programming game focusing on object-oriented concepts
+- [Halite II](https://github.com/HaliteChallenge/Halite-II), an AI programming competition from Two Sigma developed in part by an intern from Cornell
