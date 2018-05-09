@@ -5,6 +5,7 @@ A curated list of awesome open source and free culture projects around Cornell.
 ## APIs
 
   - [Cornell Open Data](https://cornelldata.org/), an attempt to create an open and easily accessible data repository for the Cornell community.
+  - [Cornell API Client Libraries](https://github.com/SamChou19815/Cornell-API-Libs), a collection of client libraries for Cornell's Public APIs.
 
 ## CLI Applications
 
